@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  Food Pyramid Balancer
 //
-//  Created by Dias Atudinov on 14.05.2026.
 //
 
 import SwiftUI

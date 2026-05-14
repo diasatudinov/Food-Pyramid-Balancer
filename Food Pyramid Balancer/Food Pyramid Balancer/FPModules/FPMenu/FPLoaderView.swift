@@ -1,8 +1,7 @@
 //
-//  LBLoaderView.swift
+//  FPLoaderView.swift
 //  Food Pyramid Balancer
 //
-//  Created by Dias Atudinov on 14.05.2026.
 //
 
 
@@ -83,5 +82,5 @@ struct FPLoaderView: View {
 
 
 #Preview {
-    LBLoaderView()
+    FPLoaderView()
 }
